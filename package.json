@@ -1,0 +1,24 @@
+{
+	"name": "hng_backend_stage1_task",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Akanowo/hng_backend_stage1_task.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Akanowo/hng_backend_stage1_task/issues"
+	},
+	"homepage": "https://github.com/Akanowo/hng_backend_stage1_task#readme",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.18.2"
+	}
+}
